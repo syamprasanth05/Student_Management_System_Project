@@ -1,3 +1,4 @@
+
 # Student Management System 📚
 
 
@@ -90,56 +91,45 @@ Marks
 
 
 ✅ Update Student
+
 Modify:
 
+- Name
 
-Name
+- Age
 
-
-Age
-
-
-Gender
+- Gender
 
 
-Course
+- Course
 
-
-Marks
-
+- Marks
 
 ✅ Search Student
+
 Search records using:
 
+- Student Name
 
-Student Name
+- Course Name
 
+### 🔮 Future Improvements
 
-Course Name
+- GUI using Tkinter
 
+- Login Authentication
 
+- Export records to Excel/CSV
 
-🔮 Future Improvements
+- Multiple user support
 
-
-GUI using Tkinter
-
-
-Login Authentication
-
-
-Export records to Excel/CSV
+- Better exception handling
 
 
-Multiple user support
+### 👨‍💻 Author
 
+- Syam Prasanth
 
-Better exception handling
+### 📄 License
 
-
-
-👨‍💻 Author
-Syam Prasanth
-
-📄 License
 This project is for learning and educational purposes.
